@@ -1,1 +1,1 @@
-say 'you got pwned'
+say 'hello'
