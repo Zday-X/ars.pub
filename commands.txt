@@ -1,1 +1,4 @@
-
+# Command server file
+echo "System check complete"
+activate
+scan
