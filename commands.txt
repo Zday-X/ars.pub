@@ -1,1 +1,1 @@
-say "System online"
+say 'you got pwned'
